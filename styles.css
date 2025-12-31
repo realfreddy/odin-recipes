@@ -1,0 +1,29 @@
+div {
+    color: white;
+}
+
+p {
+    color: red;
+}
+.description-container{
+    display: flex;
+}
+.description-container h2{
+    width: 200px;
+    margin-top: 12px;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid blueviolet;
+    flex: 1;
+}
+.description-container p{
+    width: 200px;
+    margin-top: 12px;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    border: 5px solid blueviolet;
+    flex: 1;
+
+}
